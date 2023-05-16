@@ -1,0 +1,21 @@
+---
+id: 492
+title: '1/4 Century'
+date: '2023-05-15T10:14:21-05:00'
+author: Justin
+layout: revision
+guid: 'https://justin.thehaggertys.net/55-revision-v1/'
+permalink: /55-revision-v1/
+---
+
+Well it’s starting to happen. I’m getting old. Saturday I turned 25. 1/4 century. Ouch. It actually doesn’t bother me much. Now I can get cheaper car insurance and get rental cars. Plus when I get down about it I just think about my parents. It must really suck to have a kid that is as old as I am. They must really feel old!
+
+I had a good birthday weekend, with a few bumps along the way.
+
+Saturday started with a couple of bumps. I got calls from work at 6:15 and 8:00. I ended up having to go in to our 2nd data center until about noon. [Jason](http://blogs.sungeek.net/unixwiz) came along too.
+
+I got home and Treah surprised me with a cookie cake, banana bread, and an xbox 360. I had to agree to put any birthday money I got towards the xbox though. [Chris](http://www.cboyer.net) and [Deborah](www.dboyer.net) also stopped by for a couple minutes. I spent the rest of the day playing video games and eating. Treah also made dinner for me.
+
+Sunday I got up and mowed the grass (bump 3), then in the afternoon Treah and I headed to Pittsburgh. We went to [Dave and Buster’s](http://www.daveandbusters.com). It’s basically an arcade/restaurant/bar for grown ups. It was a lot of fun. I cashed in all of the tickets I earned for a pen that is shaped like a finger. When you pull on the end of it, it plays a farting noise. I couldn’t resist. The funniest part about it is when I was checking out, the lady at the counter asked me why I was buying this.
+
+So far 25 feels like 24. 25 should be an interesting year.

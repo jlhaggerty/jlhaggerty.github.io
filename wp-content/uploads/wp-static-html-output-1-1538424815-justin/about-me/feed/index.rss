@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comments on: About Me</title>
+	<atom:link href="http://justin.thehaggertys.net/about-me/feed/" rel="self" type="application/rss+xml" />
+	<link>http://justin.thehaggertys.net</link>
+	<description>One for the money, two for the show...</description>
+	<lastBuildDate>Sat, 14 Jun 2014 14:31:26 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+	<item>
+		<title>By: Alex Barrett</title>
+		<link>http://justin.thehaggertys.net/about-me/comment-page-1/#comment-10529</link>
+		<dc:creator><![CDATA[Alex Barrett]]></dc:creator>
+		<pubDate>Mon, 20 Sep 2010 20:28:29 +0000</pubDate>
+		<guid isPermaLink="false">https://justin.thehaggertys.net/?page_id=344#comment-10529</guid>
+		<description><![CDATA[Hi Justin, 
+I am a reporter covering enterprise servers for TechTarget. I saw your tweet about SPARC T3 servers today and would love to ask you a few questions. Can you please email me at abarrett@techtarget.com if you&#039;re available? Thanks, alex]]></description>
+		<content:encoded><![CDATA[<p>Hi Justin,<br />
+I am a reporter covering enterprise servers for TechTarget. I saw your tweet about SPARC T3 servers today and would love to ask you a few questions. Can you please email me at <a href="mailto:abarrett@techtarget.com">abarrett@techtarget.com</a> if you&#8217;re available? Thanks, alex</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Chris Sears</title>
+		<link>http://justin.thehaggertys.net/about-me/comment-page-1/#comment-10331</link>
+		<dc:creator><![CDATA[Chris Sears]]></dc:creator>
+		<pubDate>Wed, 27 May 2009 17:26:01 +0000</pubDate>
+		<guid isPermaLink="false">https://justin.thehaggertys.net/?page_id=344#comment-10331</guid>
+		<description><![CDATA[I really like your wallpaper of the mountaineer.  Can you share?
+
+coinmaster2000@juno.com
+
+Thanks.]]></description>
+		<content:encoded><![CDATA[<p>I really like your wallpaper of the mountaineer.  Can you share?</p>
+<p><a href="mailto:coinmaster2000@juno.com">coinmaster2000@juno.com</a></p>
+<p>Thanks.</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

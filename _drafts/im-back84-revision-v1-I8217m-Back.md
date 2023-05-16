@@ -1,0 +1,24 @@
+---
+id: 476
+title: 'I&#8217;m Back'
+date: '2023-05-15T10:14:21-05:00'
+author: Justin
+layout: revision
+guid: 'https://justin.thehaggertys.net/84-revision-v1/'
+permalink: /84-revision-v1/
+---
+
+Let me wipe off the spider webs and see if this old blog still posts. I don’t really have a good reason for not posting. Every time I would think of posting I thought, “I’ll do that tomorrow.”
+
+So what have I been doing?
+
+In November Treah and I took a trip to Denver. I spent the week in AIX training, Treah spent the week site seeing. We also saw my brother (Ryan) and his girlfriend (Jes) when we were out there. The next week we went to Vermont to see my parents for Thanksgiving. Ryan and Jes rode back from VT with us and went to a WVU football game.
+
+In December I finally graduated from the Software Engineering Master’s program. My parents and grandparents drove in from Vermont, my brother flew in from Denver, and Treah’s parents drove up from Beckley, all to watch the ceremony. The funny thing about December graduation at WVU, is that it takes place before the end of the semester. So even though I was pretty confident I had the grades to graduate, I didn’t know for sure. Anyway, here’s a picture of me and President Hardesty at graduation.  
+![jh_grad.jpg](https://justin.thehaggertys.net/wp-content/uploads/2006/12/jh_grad.jpg)
+
+Later in the month we had Christmas with Treah’s parents. We spent most of our time in Beckley, but spent Christmas Day in Charleston at her grandfather’s house.
+
+Now I’m stuck in the 3 day work week between the end of Christmas break and New Years. I’m hoping most of our troublesome users are out of work this week!
+
+Mix in work, a couple days of school, football, basketball, a broken laptop battery, and you’ve basically got my life since my last post. I’ll try to do a better job keeping up.

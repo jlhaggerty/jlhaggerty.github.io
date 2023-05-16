@@ -1,0 +1,18 @@
+---
+id: 439
+title: 'Sweet 16'
+date: '2023-05-15T10:14:20-05:00'
+author: Justin
+layout: revision
+guid: 'https://justin.thehaggertys.net/186-revision-v1/'
+permalink: /186-revision-v1/
+---
+
+WVU knocked off Duke today to earn a spot in the Sweet 16. In the post game radio coverage they mentioned that the team would be traveling back to Morgantown tonight via bus and if people wanted to meet them they should be at the Coliseum at 10:00.
+
+[Jason](http://blogs.sungeek.net/unixwiz) and I showed up just before 10:00 and only had to wait a couple minutes before the bus pulled up. I was a bit underwhelmed by the crowd. I’d say that maybe 50 to 100 people showed up. Much less than previous seasons.
+
+Anyway, as a result of the small crowd I was able to meet one of my favorite Mountaineers, [Joe Alexander](http://msnsportsnet.com/profile.cfm?id=101103&sport=mbball).  
+[![justinjoecrop.jpg](https://justin.thehaggertys.net/wp-content/uploads/2008/03/justinjoecrop.jpg)](https://justin.thehaggertys.net/wp-content/uploads/2008/03/justinjoecrop.jpg "justinjoecrop.jpg")
+
+Thanks to [Jason](http://blogs.sungeek.net/unixwiz/) for the picture.

@@ -1,0 +1,35 @@
+---
+id: 413
+title: 'Bye Week'
+date: '2013-10-09T21:27:03-05:00'
+author: Justin
+layout: revision
+guid: 'https://justin.thehaggertys.net/77-revision-v1/'
+permalink: /77-revision-v1/
+---
+
+This week is the week every college football fan hates. My team is on a bye week. No Mountaineer football to watch this week. How bad has it got? I’m watching a crappy ACC match up, Clemson vs Virginia Tech.
+
+I think what makes things so bad this year is the lousy home schedule WVU has. Check out our home schedule:
+
+| **Date** | **Opponent** | **Score** |
+|---|---|---|
+| 9/2/06 | Marshall | 42-10, W |
+| 9/9/06 | Eastern Washington | 52-3, W |
+| 9/14/06 | Maryland | 45-24, W |
+| 10/14/06 | Syracuse | 41-17, W |
+| 11/11/06 | Cincinnati | TBA |
+| 11/25/06 | University of South Florida | TBA |
+| 12/2/06 | Rutgers | TBA |
+|
+
+I’m not talking about the quality of opponents (although we have had better), I’m talking about the spacing between games.
+
+We started the year with 3 home games in 12 days. That was great. We then started the dry spell of football here in Touchdown City. The next home game was 30 days away. The Mountaineer faithful are now being forced to wait another 28 days for the next home game. That is 2 games in 2 months, 58 days to be exact! Today is day 42.
+
+Lets assume that I will make it through this. We then end the season with 4 games in 21 days, 3 games at home and 1 at Pitt. That’s right folks, 3 games in November and 1 game in December. That’s going to be some cold football.
+
+So what keeps a Mountaineer fan going? Our #4 ranking in the AP, Coaches, and BCS polls helps. A 7-0 record helps. Having WVU coverage on TV, pay-per-view, radio, satellite radio, news papers, magazines and the Internet helps.
+
+Speaking of Internet coverage, [YouTube](http://www.youtube.com/) has done wonders. In honor of the upcoming WVU vs. Louisville game, here’s a YouTube video of the Mountaineer locker room following our come from behind, triple overtime win over Louisville last year. This video really shows the team chemistry we have. Please ignore Hollywood Joe, he’s a Marshall fan and a defector.  
+<object height="350" width="425"><param name="movie" value="https://www.youtube.com/v/VwHriD7YwRw"></param><param name="wmode" value="transparent"></param><embed height="350" src="https://www.youtube.com/v/VwHriD7YwRw" type="application/x-shockwave-flash" width="425" wmode="transparent"></embed></object>

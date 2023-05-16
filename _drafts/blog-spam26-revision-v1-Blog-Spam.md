@@ -1,0 +1,15 @@
+---
+id: 510
+title: 'Blog Spam'
+date: '2023-05-15T10:14:22-05:00'
+author: Justin
+layout: revision
+guid: 'https://justin.thehaggertys.net/26-revision-v1/'
+permalink: /26-revision-v1/
+---
+
+I know my blog isn’t read by a ton of people, as it has been up for quite a few months now and I just got my first comment on my [last posting](https://justin.thehaggertys.net/?p=25#comments). It was a comment from [Jason](http://blogs.sungeek.net/unixwiz/), a friend I work with and see all the time. Anyway, ever since I upgraded to WordPress 2 I have had [Akismet](http://akismet.com/) turned on to catch spammers trying to advertise in the comments of my blog. It does a great job. I had not seen anything get through it in the past.
+
+The interesting thing is that ever since Jason posted a comment I have had a ton of spammers trying to post comments. I normally would login and Akismet would have caught 10-20 comments that it though was spam. This morning I logged in and it had 79 comments it thought was spam. There were also 19 more comments that made it’s way past Akismet. Luckily I have WordPress setup so that I have to approve comments before they are posted to my site. So these 19 never actually made it to my page, they were waiting for my approval.
+
+I hate spammers. I think we should send them to an island some where with only an internal network connection. That way they can piss off each other and leave the rest of us alone. I think I’ll go send my idea to my congress representatives.

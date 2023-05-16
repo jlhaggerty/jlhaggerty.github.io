@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comments on: Halo 3 and NAT</title>
+	<atom:link href="http://justin.thehaggertys.net/halo-3-and-nat/feed/" rel="self" type="application/rss+xml" />
+	<link>http://justin.thehaggertys.net/halo-3-and-nat/</link>
+	<description>One for the money, two for the show...</description>
+	<lastBuildDate>Sat, 14 Jun 2014 14:31:26 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+	<item>
+		<title>By: Dave</title>
+		<link>http://justin.thehaggertys.net/halo-3-and-nat/comment-page-1/#comment-10345</link>
+		<dc:creator><![CDATA[Dave]]></dc:creator>
+		<pubDate>Fri, 23 Apr 2010 02:37:13 +0000</pubDate>
+		<guid isPermaLink="false">https://justin.thehaggertys.net/?p=162#comment-10345</guid>
+		<description><![CDATA[I know this is a old responce but Norton 360 shouldn&#039;t come into it. Unless you are using a windows PC as a router to the internet.. in which case I hope you have more brains then to use Norton 360 and have enough to work out how to configure port forwarding..... 
+
+NAT is a method of using one public IP address and having serveral &quot;Private&quot; IP addresses on an internal private network. NAT port forwarding lets you allow certian applications access to set machines on your private side. 
+
+more or less anyway.]]></description>
+		<content:encoded><![CDATA[<p>I know this is a old responce but Norton 360 shouldn&#8217;t come into it. Unless you are using a windows PC as a router to the internet.. in which case I hope you have more brains then to use Norton 360 and have enough to work out how to configure port forwarding&#8230;.. </p>
+<p>NAT is a method of using one public IP address and having serveral &#8220;Private&#8221; IP addresses on an internal private network. NAT port forwarding lets you allow certian applications access to set machines on your private side. </p>
+<p>more or less anyway.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Ryan S.</title>
+		<link>http://justin.thehaggertys.net/halo-3-and-nat/comment-page-1/#comment-10341</link>
+		<dc:creator><![CDATA[Ryan S.]]></dc:creator>
+		<pubDate>Thu, 31 Dec 2009 01:25:46 +0000</pubDate>
+		<guid isPermaLink="false">https://justin.thehaggertys.net/?p=162#comment-10341</guid>
+		<description><![CDATA[So if i have norton 360 how would i change/configure the ports i needed?]]></description>
+		<content:encoded><![CDATA[<p>So if i have norton 360 how would i change/configure the ports i needed?</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

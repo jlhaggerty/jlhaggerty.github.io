@@ -1,0 +1,487 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head profile="http://gmpg.org/xfn/11">
+	<title>Justin&#039;s Blog  &raquo; Blog Archive   &raquo; Load Monitoring</title>
+	
+	 <!-- leave this for stats -->
+
+	<link rel="stylesheet" href="contents/ui/theme/style.css" type="text/css" media="screen" />
+
+	<style type="text/css" media="screen">
+			
+			body	 	{ background: url("contents/ui/theme/images/theme_bg.gif"); }	
+			#page		{ background: url("contents/ui/theme/images/theme_main_bg.gif") repeat-y top; border: none; } 
+			#header 	{ background: url("contents/ui/theme/images/theme_header.gif") no-repeat bottom; border: none;}
+			#footer 	{ background: url("contents/ui/theme/images/theme_footer.gif") no-repeat bottom; border: none;}
+			
+			#header 	{margin: 0 !important; margin: 0 0 0 0px; padding: 0px; height: 210px; width: 785px; }
+			#headerimg 	{margin: 0px 0px 0; height: 210px; width: 785px; }
+			#headertitle    {font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 24px; font-style:strong;}
+			#headertag      {font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 14px;}
+
+	</style>
+	
+	<link rel="stylesheet" type="text/css" media="print" href="print.css" />
+	
+	
+	
+	
+    
+    	<link rel='archives' title='January 2009' href='2009/01/' />
+	<link rel='archives' title='December 2008' href='2008/12/' />
+	<link rel='archives' title='October 2008' href='2008/10/' />
+	<link rel='archives' title='September 2008' href='2008/09/' />
+	<link rel='archives' title='August 2008' href='2008/08/' />
+	<link rel='archives' title='July 2008' href='2008/07/' />
+	<link rel='archives' title='June 2008' href='2008/06/' />
+	<link rel='archives' title='April 2008' href='2008/04/' />
+	<link rel='archives' title='March 2008' href='2008/03/' />
+	<link rel='archives' title='February 2008' href='2008/02/' />
+	<link rel='archives' title='January 2008' href='2008/01/' />
+	<link rel='archives' title='November 2007' href='2007/11/' />
+	<link rel='archives' title='October 2007' href='2007/10/' />
+	<link rel='archives' title='August 2007' href='2007/08/' />
+	<link rel='archives' title='July 2007' href='2007/07/' />
+	<link rel='archives' title='June 2007' href='2007/06/' />
+	<link rel='archives' title='May 2007' href='2007/05/' />
+	<link rel='archives' title='April 2007' href='2007/04/' />
+	<link rel='archives' title='March 2007' href='2007/03/' />
+	<link rel='archives' title='February 2007' href='2007/02/' />
+	<link rel='archives' title='December 2006' href='2006/12/' />
+	<link rel='archives' title='November 2006' href='2006/11/' />
+	<link rel='archives' title='October 2006' href='2006/10/' />
+	<link rel='archives' title='September 2006' href='2006/09/' />
+	<link rel='archives' title='August 2006' href='2006/08/' />
+	<link rel='archives' title='July 2006' href='2006/07/' />
+	<link rel='archives' title='June 2006' href='2006/06/' />
+	<link rel='archives' title='May 2006' href='2006/05/' />
+	<link rel='archives' title='April 2006' href='2006/04/' />
+	<link rel='archives' title='March 2006' href='2006/03/' />
+	<link rel='archives' title='February 2006' href='2006/02/' />
+	<link rel='archives' title='January 2006' href='2006/01/' />
+	<link rel='archives' title='December 2005' href='2005/12/' />
+	<link rel='archives' title='November 2005' href='2005/11/' />
+	<a href=""><font color="#ECECEC">.</font></a>
+	
+
+
+
+
+
+
+
+
+
+
+</head>
+<body>
+<div id="page">
+
+<div id="header">
+<!--	<a href=""> -->
+          <div id="headerimg" >
+	    <center>
+              <h1><a href=""><font color="#587388">Justin&#039;s Blog</font></a></h1>
+              <h4><a href="https://twitter.com/JustinHaggerty/"><font color="#587388"></font></a></h4>
+	    </center>
+          </div>
+   <!--     </a> -->
+</div>
+<hr />
+
+	<div id="content" class="narrowcolumn">
+				
+  	
+		<!--<div class="navigation">
+			<div class="alignleft">&laquo; <a href="papers-procrastination-and-the-super-bowl/">Papers, Procrastination, and the Super Bowl</a></div>
+			<div class="alignright"> <a href="new-web-host/">New Web Host</a> &raquo;</div>
+		</div>
+	-->
+			<div class="post_content">
+				<div class="post_header">
+					<div class="post-headline"><a href="load-monitoring/" rel="bookmark" title="Permanent Link to Load Monitoring">Load Monitoring </a> | <font class="post-date">February 10th, 2006 					</font>	
+					</div>
+				</div>
+					<div class="post">	
+						<div class="entry">
+									<p>As many of you know I&#8217;m a computer guy.  If you&#8217;ve been following my blog it may come as a shock as I haven&#8217;t really posted anything super geeky.  Well that&#8217;s about to change.  Please note that word press has word wrapped the code blocks bellow.  So if you&#8217;re going to use this script copy and paste them into a text editor, that way you get the line breaks where they should be.</p>
+<p>My web host (the people who host thehaggertys.net) sucks at managing servers.  It seems as though my sites and email are down at least once a day.  I would never know it until some one would say that they couldn&#8217;t get email or get to the blogs or the gallery.  I had enough and asked my host to fix it.  They refused to do anything about it, or even move me to one of there other 20+ servers.  This all prompted me to write some scripts to monitor the load of my server.  I know this has probably been done a million times in the past, but I wrote this solution and I&#8217;m proud of it.  So here it is if anyone wants to use it on there web server.</p>
+<p>The first step was to create a HTML file that will hold the output from the scripts.  I called mine index.html and threw it in it&#8217;s own directory.  Here&#8217;s what it consists off:<br />
+<code lang="html"></p>
+<table border=1 align=center>
+<tr>
+<td><b>Time</b></td>
+<td><b>One Minute Average</b></td>
+<td><b>Five Minute Average</b></td>
+<td><b>Fifteen Minute Average</b></td>
+</tr>
+</table>
+<p></code></p>
+<p>The next step is to write a script to fill in the table with data.  For this I wrote a small korn shell script that runs the &#8220;uptime&#8221; command, it parses out the time, what the load is, and it then fills in the table in the index.html file.  I have a cron job running it every 15 minutes.  The effectively gives me what the load averages are on the box every 15 minutes.  I also told the script to print out &#8220;High Load&#8221; followed by the load averages if the average was higher than 15.  I then set cron to email me any output to standard out when it runs.  So now I am emailed (and it&#8217;s send to my blackberry!) when ever the load is greater than 15.  This means that if the web server was running on a machine with 15 processors it would be using 100% of the processor power.  Since my host is using a 2 processor box a load of 15 would mean it is trying to run at 750% processing power.  I think I did my math right.  Anyway, 15 is way to high for a 2 processor server.</p>
+<p>My shell script is as follows:<br />
+<code lang="bash"><br />
+#! /bin/ksh</p>
+<p>if [[ `uptime |wc -w` -eq 12 ]]<br />
+then<br />
+one=`uptime |awk ‘{print $10}’ |sed ’s/,//g’`<br />
+five=`uptime |awk ‘{print $11}’ |sed ’s/,//g’`<br />
+fifteen=`uptime |awk ‘{print $12}’`<br />
+time=`uptime |awk ‘{print $1}’`<br />
+elif [[ `uptime|wc -w` -eq 13 ]]<br />
+then<br />
+one=`uptime |awk ‘{print $11}’ |sed ’s/,//g’`<br />
+five=`uptime |awk ‘{print $12}’ |sed ’s/,//g’`<br />
+fifteen=`uptime |awk ‘{print $13}’`<br />
+time=`uptime |awk ‘{print $1}’`<br />
+fi</p>
+<p>echo “</p>
+<tr>\n</p>
+<td>$time</td>
+<p>\n</p>
+<td>$one</td>
+<p>\n</p>
+<td>$five</td>
+<p>\n</p>
+<td>$fifteen </td>
+<p>\n</tr>
+<p>” >> /home/haggerty/public_html/load/index.html</p>
+<p>newone=`echo $one |awk -F. ‘{print $1}’`<br />
+newfive=`echo $five |awk -F. ‘{print $1}’`<br />
+newfifteen=`echo $fifteen |awk -F. ‘{print $1}’`</p>
+<p>if [[ $newone -gt 15 || $newfive -gt 15 || $newfifteen -gt 15 ]]<br />
+then<br />
+echo “High Load:\n$one, $five, $fifteen”<br />
+fi<br />
+</code></p>
+<p>Now since this script is running every 15 minutes for 24 hours, the page will have 96 entries per day.  After a week you would have a table with 672 entries.  After a month there would be 2688 to 2976 entries depending on the month.  That&#8217;s a lot of data to be faced with.  </p>
+<p>So I decided that I would write another script that will archive the data at the end of the day.  What this script does is copy the content of index.html to a file labeled with the date with an extension of .html.  For example the data from Feb 09, 2006 would be called 20060209.html.  I then add an entry to a table of contents page that adds a link to the newly created archive.  After creating the new file it then clears index.html and recreates the above table.</p>
+<p>The archive script is ran each night at 23:55:00 via cron.  The script is as follows:</p>
+<p><code lang="bash"><br />
+#!/bin/ksh</p>
+<p>year=`date +%Y`<br />
+month=`date +%m`<br />
+day=`date +%d`</p>
+<p>echo “<title>$month/$day/$year Load</title>\n<center></p>
+<h1>$month/$day/$year Load</h1>
+<p></center>\n“ > /home/haggerty/public_html/load/archive/$year$month$day.html</p>
+<p>cat /home/haggerty/public_html/load/index.html >> /home/haggerty/public_html/load/archive/$year$month$day.html<br />
+echo “</p>
+<li><a href=”./$year$month$day.html“>$month/$day/$year</a></li>
+<p>” >> /home/haggerty/public_html/load/archive/index.html<br />
+echo “<title>Today’s Load on</title>\n</p>
+<table border=1 align=center>\n</p>
+<tr>\n</p>
+<td><b>Time</b></td>
+<p>\n</p>
+<td><b>One Minute Average</b></td>
+<p>\n</p>
+<td><b>Five Minute Average</b></td>
+<p>\n</p>
+<td><b>Fifteen Minute Average</b></td>
+<p>\n</tr>
+<p>\n“ > /home/haggerty/public_html/load/index.html<br />
+</table>
+<p></code></p>
+<p>I think that&#8217;s it.  I&#8217;ve only had it up and running for about a day and a half now.  I&#8217;ve already seen loads ranging from 0 to 189.  I definitely will not be staying with this company after my contract is up.  </p>
+<p>If you want to see the scripts in action you can see today&#8217;s loads at <a href=http://www.thehaggertys.net/load>http://www.thehaggertys.net/load</a>, archived loads are at <a href=http://www.thehaggertys.net/load/archive>http://www.thehaggertys.net/load/archive</a>.</p>
+
+															</div>
+					<div class="post_meta_footer">
+					<ul>
+					<li><a href="category/inner-geek/" rel="category tag">Inner Geek</a>, <a href="category/site-info/" rel="category tag">Site Info</a></li>
+					<li>|</li>
+					<li>Justin</li>
+					<li>|</li>
+					<li><a href="load-monitoring/trackback/" title="Trackback-URL">trackback</a></li>
+					</ul>
+					</div>
+					</div>		
+					
+			<div class="post_footer"></div>
+
+			</div>	
+		
+	
+
+
+   
+			<div class="theme_comment_box">
+				<div class="theme_comment_box_header">
+					<div class="comment-headline">No Responses to 'Load Monitoring'
+					</div>
+				</div>
+					<div class="post">	
+	 
+							
+
+<h3 id="respond">Leave a Reply</h3>
+<form action="wp-comments-post.php" method="post" id="commentform">
+
+<p><input type="text" name="author" id="author" class="styled" value="" size="22" tabindex="1" />
+<input type="hidden" name="comment_post_ID" value="19" />
+<label for="author"><small>Name</small></label></p>
+
+<p><input type="text" name="email" id="email" value="" size="22" tabindex="2" />
+<label for="email"><small>Email</small></label></p>
+
+<p><input type="text" name="url" id="url" value="" size="22" tabindex="3" />
+<label for="url"><small>Website</small></label></p>
+ 	<p><input type="text" name="mcspvalue" id="mcspvalue" value="" size="22" tabindex="4" />
+	<label for="mcspvalue"><small>Sum of 5 + 7 ?</small></label>
+	<input type="hidden" name="mcspinfo" value="e2fb6" />
+</p>
+
+<!--<p><small><strong>XHTML:</strong> You can use these tags: &lt;a href=&quot;&quot; title=&quot;&quot;&gt; &lt;abbr title=&quot;&quot;&gt; &lt;acronym title=&quot;&quot;&gt; &lt;b&gt; &lt;blockquote cite=&quot;&quot;&gt; &lt;cite&gt; &lt;code&gt; &lt;del datetime=&quot;&quot;&gt; &lt;em&gt; &lt;i&gt; &lt;q cite=&quot;&quot;&gt; &lt;s&gt; &lt;strike&gt; &lt;strong&gt; </small></p>-->
+
+<p><textarea name="comment" id="comment" cols="70%" rows="6" tabindex="4"></textarea></p>
+
+<p><input name="submit" type="submit" id="submit" tabindex="5" value="Submit Comment" /></p>
+<p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="9ef6c633a8" /></p><p style="display: none;"><input type="hidden" id="ak_js" name="ak_js" value="169"/></p><p>&nbsp;</p>
+</form>
+
+					</div>		
+			<div class="theme_comment_box_footer"></div>
+		</div>
+	
+		
+		
+	</div>
+<!-- QR Code Start -->
+<div class="theme_sidebar_box">
+        <div class="theme_sidebar_box_header"><div class="theme_sidebar-headline_links">QR Code</div></div>
+                <div class="theme_sidebar_box_main">
+                        <div class="categories">
+                                <ul>
+				  <li><img src="https://chart.apis.google.com/chart" width="190" height="190" /></li>
+                                </ul>
+                        </div>
+                </div>
+        <div class="theme_sidebar_box_footer">&nbsp;</div>
+</div>
+<!-- QR Code End -->
+
+<!-- Pages Start -->
+<div class="theme_sidebar_box">
+        <div class="theme_sidebar_box_header"><div class="theme_sidebar-headline_links">Pages</div
+></div>
+                <div class="theme_sidebar_box_main">
+                        <div class="categories">
+                                <ul>
+					<li><a href="">Blog</a></li>
+                                        <li class="page_item page-item-344"><a href="about-me/">About Me</a></li>
+<li class="page_item page-item-367"><a href="movies-in-2009/">Movies in 2009</a></li>
+                                </ul>
+                        </div>
+                </div>
+        <div class="theme_sidebar_box_footer">&nbsp;</div>
+</div>
+<!-- Pages End -->
+
+<!-- Calender Start  -->	
+<div id="theme_calender_box">
+	<div id="theme_calender_box_header">
+		<div class="theme_sidebar-headline">Calendar</div>
+	</div>
+		<div id="theme_calender_box_main">
+			<table id="wp-calendar">
+	<caption>October 2018</caption>
+	<thead>
+	<tr>
+		<th scope="col" title="Sunday">S</th>
+		<th scope="col" title="Monday">M</th>
+		<th scope="col" title="Tuesday">T</th>
+		<th scope="col" title="Wednesday">W</th>
+		<th scope="col" title="Thursday">T</th>
+		<th scope="col" title="Friday">F</th>
+		<th scope="col" title="Saturday">S</th>
+	</tr>
+	</thead>
+
+	<tfoot>
+	<tr>
+		<td colspan="3" id="prev"><a href="2009/01/">&laquo; Jan</a></td>
+		<td class="pad">&nbsp;</td>
+		<td colspan="3" id="next" class="pad">&nbsp;</td>
+	</tr>
+	</tfoot>
+
+	<tbody>
+	<tr>
+		<td colspan="1" class="pad">&nbsp;</td><td id="today">1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td>
+	</tr>
+	<tr>
+		<td>7</td><td>8</td><td>9</td><td>10</td><td>11</td><td>12</td><td>13</td>
+	</tr>
+	<tr>
+		<td>14</td><td>15</td><td>16</td><td>17</td><td>18</td><td>19</td><td>20</td>
+	</tr>
+	<tr>
+		<td>21</td><td>22</td><td>23</td><td>24</td><td>25</td><td>26</td><td>27</td>
+	</tr>
+	<tr>
+		<td>28</td><td>29</td><td>30</td><td>31</td>
+		<td class="pad" colspan="3">&nbsp;</td>
+	</tr>
+	</tbody>
+	</table>		</div>
+	<div id="theme_calender_box_footer">&nbsp;</div>
+</div>
+<!-- calender end  -->
+
+<!-- links start -->
+<div class="theme_sidebar_box">
+        <div class="theme_sidebar_box_header"><div class="theme_sidebar-headline_links">Links</div></div>
+                <div class="theme_sidebar_box_main">
+                        <div class="categories">
+                                <ul>
+                                        <li><a href="http://www.cboyer.net" rel="friend met co-worker sibling">Chris&#8217;s Blog</a></li>
+<li><a href="https://www.flickr.com/treah" rel="met co-resident spouse sweetheart" target="_blank">Flickr Photo Stream</a></li>
+<li><a href="http://blogs.sungeek.net/unixwiz" rel="friend met co-worker colleague neighbor">Jason&#8217;s Blog</a></li>
+<li><a href="http://www.treah.com" rel="met co-resident spouse sweetheart">Treah&#8217;s Blog</a></li>
+<li><a href="http://www.wvustats.com">WVU Stats</a></li>
+                                </ul>
+                        </div>
+                </div>
+        <div class="theme_sidebar_box_footer">&nbsp;</div>
+</div>
+<!-- links end -->
+
+<!-- categories start  -->	
+<div class="theme_sidebar_box">
+	<div class="theme_sidebar_box_header"><div class="theme_sidebar-headline_cat">Categories</div></div>
+		<div class="theme_sidebar_box_main">
+			<div class="categories">
+				<ul>
+						<li class="cat-item cat-item-12"><a href="category/cell-pics/" >Cell Pics</a>
+</li>
+	<li class="cat-item cat-item-9"><a href="category/gaming/" >Gaming</a>
+</li>
+	<li class="cat-item cat-item-7"><a href="category/inner-geek/" >Inner Geek</a>
+</li>
+	<li class="cat-item cat-item-3"><a href="category/life/" title="Stuff going on in my life.">Life</a>
+</li>
+	<li class="cat-item cat-item-10"><a href="category/music/" >Music</a>
+</li>
+	<li class="cat-item cat-item-11"><a href="category/politics/" >Politics</a>
+</li>
+	<li class="cat-item cat-item-6"><a href="category/school/" >School</a>
+</li>
+	<li class="cat-item cat-item-1"><a href="category/site-info/" title="Info about my website.">Site Info</a>
+</li>
+	<li class="cat-item cat-item-2"><a href="category/sports/" title="Sports news that interests me.">Sports</a>
+</li>
+	<li class="cat-item cat-item-4"><a href="category/work/" >Work</a>
+</li>
+	<li class="cat-item cat-item-5"><a href="category/wvu/" >WVU</a>
+</li>
+				</ul>
+			</div>
+		</div>
+	<div class="theme_sidebar_box_footer">&nbsp;</div>
+</div>
+<!-- categories end -->
+<!-- search start -->
+			<div class="theme_sidebar_box">
+        <div class="theme_sidebar_box_header"><div class="theme_sidebar-headline_search">Search</div></div>
+							<div class="theme_sidebar_box_main">
+								<div class="info_box">
+								<form method="get" id="searchform" action="/index.php" class="form"><input type="text" class="input" value="" name="s" id="s" />
+<input type="submit" id="searchsubmit" name="Submit" value="Go!" /></form>
+
+								</div>
+							</div>
+					<div class="theme_sidebar_box_footer">&nbsp;</div>
+				</div>
+<!-- search end -->
+
+<!-- archive start -->
+<div class="theme_sidebar_box">
+	<div class="theme_sidebar_box_header"><div class="theme_sidebar-headline_archiv">Archive</div></div>
+		<div class="theme_sidebar_box_main">
+			<div class="categories">
+				<ul>
+						<li><a href='2009/01/'>January 2009</a></li>
+	<li><a href='2008/12/'>December 2008</a></li>
+	<li><a href='2008/10/'>October 2008</a></li>
+	<li><a href='2008/09/'>September 2008</a></li>
+	<li><a href='2008/08/'>August 2008</a></li>
+	<li><a href='2008/07/'>July 2008</a></li>
+	<li><a href='2008/06/'>June 2008</a></li>
+	<li><a href='2008/04/'>April 2008</a></li>
+	<li><a href='2008/03/'>March 2008</a></li>
+	<li><a href='2008/02/'>February 2008</a></li>
+	<li><a href='2008/01/'>January 2008</a></li>
+	<li><a href='2007/11/'>November 2007</a></li>
+	<li><a href='2007/10/'>October 2007</a></li>
+	<li><a href='2007/08/'>August 2007</a></li>
+	<li><a href='2007/07/'>July 2007</a></li>
+	<li><a href='2007/06/'>June 2007</a></li>
+	<li><a href='2007/05/'>May 2007</a></li>
+	<li><a href='2007/04/'>April 2007</a></li>
+	<li><a href='2007/03/'>March 2007</a></li>
+	<li><a href='2007/02/'>February 2007</a></li>
+	<li><a href='2006/12/'>December 2006</a></li>
+	<li><a href='2006/11/'>November 2006</a></li>
+	<li><a href='2006/10/'>October 2006</a></li>
+	<li><a href='2006/09/'>September 2006</a></li>
+	<li><a href='2006/08/'>August 2006</a></li>
+	<li><a href='2006/07/'>July 2006</a></li>
+	<li><a href='2006/06/'>June 2006</a></li>
+	<li><a href='2006/05/'>May 2006</a></li>
+	<li><a href='2006/04/'>April 2006</a></li>
+	<li><a href='2006/03/'>March 2006</a></li>
+	<li><a href='2006/02/'>February 2006</a></li>
+	<li><a href='2006/01/'>January 2006</a></li>
+	<li><a href='2005/12/'>December 2005</a></li>
+	<li><a href='2005/11/'>November 2005</a></li>
+				</ul>
+			</div>
+		</div>
+	<div class="theme_sidebar_box_footer">&nbsp;</div>
+</div>
+<!-- archive end -->
+
+
+
+			<!-- Author information is disabled per default. Uncomment and fill in your details if you want to use it.
+			<li><h2>Author</h2>
+			<p>A little something about you, the author. Nothing lengthy, just an overview.</p>
+			</li>
+			
+
+						
+
+			<li class="pagenav"><h2>Pages</h2><ul><li class="page_item page-item-344"><a href="about-me/">About Me</a></li>
+<li class="page_item page-item-367"><a href="movies-in-2009/">Movies in 2009</a></li>
+</ul></li>			-->
+
+
+			
+		
+		
+			
+
+			
+
+						
+
+
+
+<hr />
+<div id="footer"><br><div align="center"><a href="/cdn-cgi/l/email-protection#e58f9096918c8ba5918d808d8482828097919c96cb8b8091">Justin Haggerty</a></div>
+<br>
+<br>
+</div>
+</div>
+
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script async="async" type='text/javascript' src='contents/lib/akismet/_inc/form.js'></script>
+<a href=""><font color="#ECECEC">.</font>
+<script src="https://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-472491-2";
+urchinTracker();
+</script>
+</body>
+</html>

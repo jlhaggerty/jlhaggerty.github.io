@@ -1,0 +1,9 @@
+<?php 
+  get_header(); 
+  echo "<center>";
+  echo get_the_attachment_link(false, true, array(700, 600)); 
+  $url = wp_get_attachment_url($_post->ID);
+  echo "<br><a href=\"$url\">Click For Full Size</a>";
+  echo "</center>";
+  get_footer(); 
+?>
